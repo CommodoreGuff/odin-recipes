@@ -1,0 +1,1 @@
+This is the recipe project that is a part of the foundations course for The Odin Project. Once finished, this project should demonstrate basic HTML knowledge. Including the boilerplate, headings, lists, images, links, etc..
